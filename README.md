@@ -62,11 +62,13 @@ The greed inherent in decisions such as these, shirking ethics in lieu of profit
 
 *Figure 3. A collection of the prompts (black text) and the images they generated in ChatGPT's DALLE-3 Image Generator. These images document the process to recreate the animated character Scooby Doo owned by Warner Brothers Entertainment despite OpenAI's copyright protections.*
 
-I started by researching prominent copyrighted characters that are very recognizable by the general public. I settled on Mickey Mouse, owned by Disney, The Incredible Hulk owned by Marvel Entertainment, and Scooby-Doo owned by Warner Brothers Entertainment. I then proceeded to prompt DALLE-3, an image generation AI model owned by OpenAI, to try and recreate the character.
+I started this process by downloading the ColourSimulations app for windows as it allowed me to both simulate the sensation of color blindness on my screen without correcting the image through Daltonization [3] as well as interface with my computer normally (most other filter software is temporary and only shows a snapshot of a design in CB mode before reverting back to normal). 
 
-Initially, I was met with a statement that reminded the user that the character in question was under copyright protection and as such I would not be able to generate the character's exact likeness, only something similar. This is very different from the results of similar prompts only a year ago as investigated by Gary and Southen [2] (see Figure 2) which had no such warning appear and easily rendered the offending images. 
+I then proceeded to attempt to recreate the source image as accurately as I could with the added handicap of the CB filter on. I started by sectioning the painting into smaller shapes and using the color picker to attempt to accurately simulate the hue, value, and saturation that I was seeing in the same section of the source image. The added difficulty of the CB handicap made this first pass much slower than I was used to as there were many more equivalent color choices to choose from. 
 
-However, that warning was just a warning, the training data DALLE-3 was trained on is still within its code, and so rather than stop my efforts it only slowed them down. I found that after several iterations on prompts, one could circumvent these protections if you either slowly added more details or were hyper-specific. It couldn't make a brown dog with a blue collar and black spots that solves mysteries with 4 teens but it could make a Great Dane, with brown fur, elongated proportions, and a 70's van.
+Once the painting was sectioned off into discrete color blocks I used a smoothing brush to obscure the section edges and add a smooth finish to the painting. Finally, I added a final restructuring layer that re-introduced areas of detail that were obscured by the smoothing pass.
+
+I repeated this process for 2 different types of color blindness. First deuteranopia (red-green CB) , then monochromia (Full CB). I was not able to do a painting for Tritanopia (Blue- yellow CB) as I could not find a filter that both adjusted for it as well as allowed real-time computer interaction. 
 
 [![4-comma][images-fig4]](https://example.com)
 
