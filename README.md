@@ -93,7 +93,7 @@ I noticed an over prevalence of purple in the Monochromia painting and a dearth 
 
 I noticed that despite the fact that they are the only colors invisible on the Deuteranopia colorwheel the ending painting is overwhelmingly red and green. I have no good explanation for this phenomena.
 
-I would like to create another series featuring Daltonized versions of these filters to see how that changes my options.
+I would like to create another series featuring Daltonized versions of these filters to see how that changes my options as well as a version with Tritanopia included.
 
 ## Conclusion
 In conclusion, I think that though CB can cause vast challenges in creating art, it also can create great opportunities for beauty and a unique aesthetic. 
