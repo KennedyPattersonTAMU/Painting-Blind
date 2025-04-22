@@ -91,13 +91,13 @@ In conclusion, Generative AI has a fundamental problem with plagiarism that will
 
 <!-- Bibliography -->
 ## Bibliography 
-[1] Abell, Catharine. “Art: What It Is and Why It Matters.” Philosophy and Phenomenological Research, vol. 85, no. 3, 21 July 2011, pp. 671–691, https://doi.org/10.1111/j.1933-1592.2011.00498.x. Accessed 28 Feb. 2019.
+[1] Journal of the Optical Society of America A. “Computerized Simulation of Color Appearance for Dichromats.” Optica.org, Optica Publishing Group, 1997, opg.optica.org/josaa/fulltext.cfm?uri=josaa-14-10-2647&id=1980. Accessed 22 Apr. 2025.
 
-[2] Marcus, Gary, and Reid Southen. “Generative AI Has a Visual Plagiarism Problem - IEEE Spectrum.” Spectrum.ieee.org, IEEE, 6 Jan. 2024, spectrum.ieee.org/midjourney-copyright. Accessed 25 Feb. 2025.
+[2] Josep Giribet. “Color-Blind Painting Experience Methodology.” Academia.edu, 18 Aug. 2014, www.academia.edu/8011370/Color_blind_painting_experience_methodology. Accessed 22 Apr. 2025.
 
-[3] Tweed, Laurel. “AI’s Role in Ethical Decision-Making: Fostering Fairness in Critical Systems with Explainable AI (XAI).” IEEE Computer Society, IEEE, 31 Jan. 2025, www.computer.org/publications/tech-news/community-voices/explainable-ai. Accessed 25 Feb. 2025. 
+[3] Keresteš, Neda Milić, et al. “Customized Daltonization: Adaptation of Different Image Types for Observers with Different Severities of Color Vision Deficiencies.” Universal Access in the Information Society, vol. 22, 27 Oct. 2021, link.springer.com/article/10.1007/s10209-021-00847-7, https://doi.org/10.1007/s10209-021-00847-7. Accessed 22 Apr. 2025.
 
-[4] Avey, Chester. “Ethical Pros and Cons of AI Image Generation.” IEEE Computer Society, IEEE, 27 Dec. 2023, www.computer.org/publications/tech-news/community-voices/ethics-of-ai-image-generation. Accessed 25 Feb. 2025.
+[4] Chaparro, Alex, and Maria Chaparro. “Applications of Color in Design for Color-Deficient Users.” Ergonomics in Design: The Quarterly of Human Factors Applications, vol. 25, no. 1, 15 Nov. 2016, pp. 23–30, journals.sagepub.com/doi/full/10.1177/1064804616635382, https://doi.org/10.1177/1064804616635382. Accessed 22 Apr. 2025..
 
 
 
