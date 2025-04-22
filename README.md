@@ -64,13 +64,18 @@ The greed inherent in decisions such as these, shirking ethics in lieu of profit
 
 I started this process by downloading the ColourSimulations app for windows as it allowed me to both simulate the sensation of color blindness on my screen without correcting the image through Daltonization [3] as well as interface with my computer normally (most other filter software is temporary and only shows a snapshot of a design in CB mode before reverting back to normal). 
 
+[![4-comma][images-fig4]](https://example.com)
+
+*Figure 4. A collection of the prompts (black text) and the images they generated in ChatGPT's DALLE-3 Image Generator. These images document the process to recreate the animated character Scooby Doo owned by Warner Brothers Entertainment despite OpenAI's copyright protections.*
+
+
 I then proceeded to attempt to recreate the source image as accurately as I could with the added handicap of the CB filter on. I started by sectioning the painting into smaller shapes and using the color picker to attempt to accurately simulate the hue, value, and saturation that I was seeing in the same section of the source image. The added difficulty of the CB handicap made this first pass much slower than I was used to as there were many more equivalent color choices to choose from. 
 
 Once the painting was sectioned off into discrete color blocks I used a smoothing brush to obscure the section edges and add a smooth finish to the painting. Finally, I added a final restructuring layer that re-introduced areas of detail that were obscured by the smoothing pass.
 
 I repeated this process for 2 different types of color blindness. First deuteranopia (red-green CB) , then monochromia (Full CB). I was not able to do a painting for Tritanopia (Blue- yellow CB) as I could not find a filter that both adjusted for it as well as allowed real-time computer interaction. 
 
-[![4-comma][images-fig4]](https://example.com)
+[![4-comma][images-fig5]](https://example.com)
 
 *Figure 4. A screencapture of the prompt to create the character of "The Hulk" owned by Marvel Entertainment and the image that it generated.*
 
