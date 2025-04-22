@@ -37,7 +37,7 @@ Assignment 3 for Generative AI and Design, VIZA 626 at Texas A&amp;M University 
 
 [![4-comma][images-fig1]](https://example.com)
 
-*Figure 1. My yonkoma comic. The story involves a girl growing into an artist starting from a young child observing the world to an accomplished adult artist. The comic then shows her creativity being wrung out of her by a corporation symbolized by the Mickey Mouse gloved hands. The comic is made with Acryllic paint and photocopied poorly into a digital medium except for the copyrighted AI generated images wrung out of the artist. There is a deliberate dichotomy between the traditional art and its muted color palette and differing panel sizes and the bright, oversaturated AI images that starkly contrast from the rest of the comic*
+*Figure 1. 4 digital paintings that I created utilizing filters simulating 2 different types of color blindness, Deuteranopia and Monochromia. The first 2 images (top left and right) feature digital paintings of a light skinned woman with dark hair and pearl earrings. The top left utilizes a Deuteranopia filter and the right is the same image in full color. The last 2 images (bottom left and right) feature digital paintings of a dark skinned woman with striking blue makup and hooped earrings. The bottom left utilizes a greyscale filter and the right is the same image in full color. Both original images are taken from pexels.com and are utilized under a creative commons license.*
 
 <!-- Abstract -->
 ## Abstract
@@ -60,13 +60,13 @@ The greed inherent in decisions such as these, shirking ethics in lieu of profit
 ## Methodology
 [![4-comma][images-fig5]](https://example.com)
 
-*Figure 3. A collection of the prompts (black text) and the images they generated in ChatGPT's DALLE-3 Image Generator. These images document the process to recreate the animated character Scooby Doo owned by Warner Brothers Entertainment despite OpenAI's copyright protections.*
+*Figure 3. A series of images showing the process of creating the Monochromia filter painting. The first row features the images in full color going from the initial block in stage, the smoothing stage, and finally the restructuring phase. The second row features the images with a Greyscale filter following the same previous 3 stages.*
 
-I started this process by downloading the ColourSimulations app for windows as it allowed me to both simulate the sensation of color blindness on my screen without correcting the image through Daltonization [3] as well as interface with my computer normally (most other filter software is temporary and only shows a snapshot of a design in CB mode before reverting back to normal). 
+I started this process by downloading the ColourSimulations app for windows as it allowed me to both simulate the sensation of color blindness on my screen without correcting the image through Daltonization [3] as well as interface with my computer normally (most other filter software is temporary and only shows a snapshot of a design in CB mode before reverting back to normal). I set the filter at 100% severity for both filters in order to both account for the most severly impacted people with color blindness and to give the most unique possible image. 
 
 [![4-comma][images-fig4]](https://example.com)
 
-*Figure 4. A collection of the prompts (black text) and the images they generated in ChatGPT's DALLE-3 Image Generator. These images document the process to recreate the animated character Scooby Doo owned by Warner Brothers Entertainment despite OpenAI's copyright protections.*
+*Figure 4. The first image is a screen capture of the ColourSimulations page on the Microsoft store. The second image is an example of the ColourSimulations software being used on the Deuteranopia painting with part of the face in full color and part of the face changed by the filter.*
 
 
 I then proceeded to attempt to recreate the source image as accurately as I could with the added handicap of the CB filter on. I started by sectioning the painting into smaller shapes and using the color picker to attempt to accurately simulate the hue, value, and saturation that I was seeing in the same section of the source image. The added difficulty of the CB handicap made this first pass much slower than I was used to as there were many more equivalent color choices to choose from. 
