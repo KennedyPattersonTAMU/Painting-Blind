@@ -73,17 +73,17 @@ I then proceeded to attempt to recreate the source image as accurately as I coul
 
 Once the painting was sectioned off into discrete color blocks I used a smoothing brush to obscure the section edges and add a smooth finish to the painting. Finally, I added a final restructuring layer that re-introduced areas of detail that were obscured by the smoothing pass.
 
-I repeated this process for 2 different types of color blindness. First deuteranopia (red-green CB) , then monochromia (Full CB). I was not able to do a painting for Tritanopia (Blue- yellow CB) as I could not find a filter that both adjusted for it as well as allowed real-time computer interaction. 
+I repeated this process for 2 different types of color blindness. First deuteranopia (red-green CB) , then monochromia (Full CB). I was not able to do a painting for Tritanopia (Blue- yellow CB) as I could not find a filter that both contained the condition as an option, allowed simulation rather than adjustment, as well as allowed real-time computer interaction. 
 
 [![4-comma][images-fig3]](https://example.com)
 
-*Figure 5. A screencapture of the prompt to create the character of "The Hulk" owned by Marvel Entertainment and the image that it generated.*
+*Figure 5. A screencapture of the 3 different colorwheels I worked from when creating the digital paintings on Krita. The first is the standard RGB colorwheel. The second is the same wheel adjusted for Deuteranopia. The last image is the standard wheel adjusted for Monochromia. All 3 colorwheels allow for adjustments in hue, saturation, and value.*
 
 ## Result and Future Work
 
 [![4-comma][images-fig6]](https://example.com)
 
-*Figure 6. A screencapture of the prompt to create the character of "The Hulk" owned by Marvel Entertainment and the image that it generated.*
+*Figure 6. A series of images showing the process of creating the Deuteranopia filter painting. The first row features the images in full color going from the initial block in stage, the smoothing stage, and finally the restructuring phase. The second row features the images with a Deuteranopia filter following the same previous 3 stages.*
 
 I found that some characters were harder to recreate than others. It only took one prompt to generate the Incredible Hulk (see Figure 4.) but it took 14 prompts and re-wordings to get something poorly approximating Mickey Mouse before I gave up on the effort to generate the real deal. It seems that certain IPs are better protected than others. Whether due to repeated attempts by users to generate them or the litigiousness of the owners, one can only speculate. I would like to test the limits of this more with lesser-known properties in the future.
 ## Conclusion
