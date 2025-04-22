@@ -48,7 +48,7 @@ This project is an exploration of how different types of color blindness can eff
 
 [![4-comma][images-fig2]](https://example.com)
 
-*Figure 2. Examples of notable stills from movies and games recreated in Midjourney by Reid Southen* 
+*Figure 2. A still showing the color ranges and confusion line experienced by people with Protanopia, Deuteranopia, and Tritanopia from “Customized Daltonization: Adaptation of Different Image Types for Observers with Different Severities of Color Vision Deficiencies.” by Keresteš, Neda Milić, et al.* 
 
 Color Blindness (Herfore shortened to CB) is a condition that effects 4.5% of the population. It is particularly prevalent in men (8.8% of men) but also effects women (0.4% of women). CB comes in 4 major categories: Deuteranopia, Protanopia, Tritanopia, and Monochromia [4]. Each of these types of blindness effects one of the 3 color sensing cones in the eye and the last is a complete cessation of the ability to see color and is extremely rare. 
 
@@ -123,7 +123,7 @@ Personal Website: [https://kennedpatterson.artstation.com/](https://kennedpatter
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-This work is submitted as part of Assignment 1 for the VIZA 626 course at Texas A&M University, under the instruction of Professor You-Jin Kim, during the Spring 2025 semester.
+This work is submitted as part of Assignment 3 for the VIZA 626 course at Texas A&M University, under the instruction of Professor You-Jin Kim, during the Spring 2025 semester.
 
 VIZA 626 Class Website: [https://sites.google.com/view/viza626/](https://sites.google.com/view/viza626/home)
 
