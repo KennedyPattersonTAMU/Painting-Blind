@@ -50,11 +50,11 @@ This project is an exploration of how different types of color blindness can eff
 
 *Figure 2. Examples of notable stills from movies and games recreated in Midjourney by Reid Southen* 
 
-One of the largest ethical issues plaguing the new AI industry is the means by which many models acquired their training data [4]. The data is often scrapped from numerous sources across the internet without credit and used to train AI Image generation models. Those models then will often regurgitate those same stolen images in their outputs, sometimes without the user even knowing the generated image could be plagiarized and placing both the AI companies and their users at legal risk [2].
+Color Blindness (Herfore shortened to CB) is a condition that effects 4.5% of the population. It is particularly prevalent in men (8.8% of men) but also effects women (0.4% of women). CB comes in 4 major categories: Deuteranopia, Protanopia, Tritanopia, and Monochromia [4]. Each of these types of blindness effects one of the 3 color sensing cones in the eye and the last is a complete cessation of the ability to see color and is extremely rare. 
 
-There have been recent efforts to make the generation methods of machine learning models more transparent through techniques such as Explainable AI (XAI) which could be a step towards solving these ethical issues [3]. But these efforts are likely to be ignored by large tech companies due to the effort and cost associated with ethically retraining such large models.
+There are many ways to adjust for this condition. One is the utilization of color correcting software that converts standard red, green, and blue (RGB) values into the colorspace that the human eye sees (LMS) [1] and using a process called Daltonization [3] to alter those values into colors that are more accessible for the colorblind. Another is to start with a design forward process and create visual designs with CB in mind initially [2] utilizing simulation software that recreates the sensation of CB.
 
-The greed inherent in decisions such as these, shirking ethics in lieu of profit and disregarding laws that  protect artists, inspired my yonkoma. The panels follow the growth of an artist from youth to the peak of their career. Their steady growth is abruptly halted in the 3rd cell as they are captured, and all the creativity is wrung out of them in the form of plagiarized AI images. 
+My Project is utilization of the aforementioned software to recreate photographs in digital software from the point of view of a colorblind person. Creating art as a colorblind person can be difficult but has been done repeatedly throughout history [2] often leading to exciting and unique results. 
 
 
 ## Methodology
@@ -73,7 +73,7 @@ I then proceeded to attempt to recreate the source image as accurately as I coul
 
 Once the painting was sectioned off into discrete color blocks I used a smoothing brush to obscure the section edges and add a smooth finish to the painting. Finally, I added a final restructuring layer that re-introduced areas of detail that were obscured by the smoothing pass.
 
-I repeated this process for 2 different types of color blindness. First deuteranopia (red-green CB) , then monochromia (Full CB). I was not able to do a painting for Tritanopia (Blue- yellow CB) as I could not find a filter that both contained the condition as an option, allowed simulation rather than adjustment, as well as allowed real-time computer interaction. 
+I repeated this process for 2 different types of color blindness. First deuteranopia (red-green CB) , then monochromia (Full CB). I chose not to use the filter for Protanopia because of the similarity to Deuteranopia. I was not able to do a painting for Tritanopia (Blue- yellow CB) as I could not find a filter that both contained the condition as an option, allowed simulation rather than adjustment, as well as allowed real-time computer interaction. 
 
 [![4-comma][images-fig3]](https://example.com)
 
@@ -85,9 +85,18 @@ I repeated this process for 2 different types of color blindness. First deuteran
 
 *Figure 6. A series of images showing the process of creating the Deuteranopia filter painting. The first row features the images in full color going from the initial block in stage, the smoothing stage, and finally the restructuring phase. The second row features the images with a Deuteranopia filter following the same previous 3 stages.*
 
-I found that some characters were harder to recreate than others. It only took one prompt to generate the Incredible Hulk (see Figure 4.) but it took 14 prompts and re-wordings to get something poorly approximating Mickey Mouse before I gave up on the effort to generate the real deal. It seems that certain IPs are better protected than others. Whether due to repeated attempts by users to generate them or the litigiousness of the owners, one can only speculate. I would like to test the limits of this more with lesser-known properties in the future.
+I found that the greatest challenge was the fact that there were a number of ways to achieve the same hue and saturation value as in the adjusted source image. Often adjusting the saturation or value of a color gave the same effect on one hue as another. This was especially prevalent in the Monochromia example. 
+
+I also noticed that cooler colors (blue, purple, green) were often found in the places where shadows were cast due to the ease of darkening the already naturally dark hues. In tandem warmer colors commonly populated the highlights.
+
+I noticed an over prevalence of purple in the Monochromia painting and a dearth of yellow. I assume that it is because of the ease of interpreting certain shades of blue and red as purple and because darker shades of yellow are often interpreted as oranges.
+
+I noticed that despite the fact that they are the only colors invisible on the Deuteranopia colorwheel the ending painting is overwhelmingly red and green. I have no good explanation for this phenomena.
+
+I would like to create another series featuring Daltonized versions of these filters to see how that changes my options.
+
 ## Conclusion
-In conclusion, Generative AI has a fundamental problem with plagiarism that will continue to cause issues despite the changes being attempted to fix it. This plagiarism is disrespectful to artists and unethical and will take a change in attitude and lots of work and money to fix.
+In conclusion, I think that though CB can cause vast challenges in creating art, it also can create great opportunities for beauty and a unique aesthetic. 
 
 <!-- Bibliography -->
 ## Bibliography 
