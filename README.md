@@ -26,7 +26,7 @@ Assignment 3 for Generative AI and Design, VIZA 626 at Texas A&amp;M University 
   <p align="center">
     This project is a series of digital paintings exploring the ways in which color blindness can change the artistic method. Through the use of colorblind filters and digital software I created realistic portraits of copyright free photographs by trying to match the colors I saw with a colorblind filter on and the colors on an RGB digital colorwheel.
     <br />
-    <a href="https://github.com/KennedyPattersonTAMU/4-Comma-Assignment_01/blob/main/PDF/Artists_Squeezed_Yonkoma.pdf"><strong>Link to PDF Report »</strong></a>
+    <a href="https://github.com/KennedyPattersonTAMU/Painting-Blind/blob/main/pdf/Painting_blind.pdf"><strong>Link to PDF Report »</strong></a>
     <br />
     <br />
     <a href="https://website.com">Kennedy Patterson</a>
