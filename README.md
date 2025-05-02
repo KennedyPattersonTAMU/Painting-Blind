@@ -41,26 +41,28 @@ Assignment 3 for Generative AI and Design, VIZA 626 at Texas A&amp;M University 
 
 <!-- Abstract -->
 ## Abstract
-This project is an exploration of how different types of color blindness can effect the color choices an artist uses when attempting to accurately recreate a painting. I test the ways in which the color picking process changes when faced with the challenge of attempting to recreate realism with an added disability and the beautiful unintended results that can follow. 
+This project investigates the ways in which different types of colorblindness effect artistic color accuracy. I test 2 different variations of color blindness in order to see how a change in color perception effects the method by which colors are chosen in order to create an accurate painting. 
+
+
 
 <!-- Introduction and Related Works -->
 ## Introduction and Related Works
 
 [![4-comma][images-fig2]](https://example.com)
 
-*Figure 2. A still showing the color ranges and confusion line experienced by people with Protanopia, Deuteranopia, and Tritanopia from “Customized Daltonization: Adaptation of Different Image Types for Observers with Different Severities of Color Vision Deficiencies.” by Keresteš, Neda Milić, et al.* 
+*Figure 2. A still showing the color ranges and color confusion lines experienced by people with Protanopia, Deuteranopia, and Tritanopia from “Customized Daltonization: Adaptation of Different Image Types for Observers with Different Severities of Color Vision Deficiencies.” by Keresteš, Neda Milić, et al. These charts show which colors are visible to people with the afforementioned conditions and which colors they struggle to see.* 
 
-Color Blindness (Herfore shortened to CB) is a condition that effects 4.5% of the population. It is particularly prevalent in men (8.8% of men) but also effects women (0.4% of women). CB comes in 4 major categories: Deuteranopia, Protanopia, Tritanopia, and Monochromia [4]. Each of these types of blindness effects one of the 3 color sensing cones in the eye and the last is a complete cessation of the ability to see color and is extremely rare. 
+Color Blindness (Herfore shortened to CB) is a condition that effects 4.5% of the population. It is particularly prevalent in men (8.8% of men) but also effects women (0.4% of women). CB comes in 4 major categories: Deuteranopia, Protanopia, Tritanopia, and Monochromia [4]. Deuteranopia and Protanopia are variations of red-green CB, Tritanopia is blue-yellow CB, and Monochromia is a complete cessation of the ability to see color and is extremely rare. Usually CB is experienced in degrees of severity with more severe forms of the condition being rarer.
 
-There are many ways to adjust for this condition. One is the utilization of color correcting software that converts standard red, green, and blue (RGB) values into the colorspace that the human eye sees (LMS) [1] and using a process called Daltonization [3] to alter those values into colors that are more accessible for the colorblind. Another is to start with a design forward process and create visual designs with CB in mind initially [2] utilizing simulation software that recreates the sensation of CB.
+People with color blindness have historically struggled in the art world due to the difficulties an inability to see color can cause. That is not to say there are not colorblind artists, there are many examples of artists that are theorized to be colorblind due to their work [2]. One way to ease these struggles is the use of modern color filter technology. CB filters work by converting standard red, green, and blue (RGB) values into the colorspace that the human eye sees (LMS) [1] and using a process called Daltonization [3] to alter those values into colors that are more accessible for the colorblind. 
 
-My Project is utilization of the aforementioned software to recreate photographs in digital software from the point of view of a colorblind person. Creating art as a colorblind person can be difficult but has been done repeatedly throughout history [2] often leading to exciting and unique results. 
+This project explores the ways in which Monochromia and and Deuteranopia specifically alter the ability to accurately pick colors for portraiture in order to highlight the specific issues colorblind artists face and possibly suggest means to alleviate them.
 
 
 ## Methodology
 [![4-comma][images-fig5]](https://example.com)
 
-*Figure 3. A series of images showing the process of creating the Monochromia filter painting. The first row features the images in full color going from the initial block in stage, the smoothing stage, and finally the restructuring phase. The second row features the images with a Greyscale filter following the same previous 3 stages.*
+*Figure 3. A series of images showing the process of creating the Deuteranopia filter painting. The images show the order in which the process of creating the final image was completed. First the initial photograph is run through a Deuteranopia filter. Then it is recreated in a block in method where distinct color areas are chosen from a color wheel. This block in is smoothed and then structured areas reintroduced to create the final image.*
 
 I started this process by downloading the ColourSimulations app for windows as it allowed me to both simulate the sensation of color blindness on my screen without correcting the image through Daltonization [3] as well as interface with my computer normally (most other filter software is temporary and only shows a snapshot of a design in CB mode before reverting back to normal). I set the filter at 100% severity for both filters in order to both account for the most severly impacted people with color blindness and to give the most unique possible image. 
 
@@ -69,21 +71,24 @@ I started this process by downloading the ColourSimulations app for windows as i
 *Figure 4. The first image is a screen capture of the ColourSimulations page on the Microsoft store. The second image is an example of the ColourSimulations software being used on the Deuteranopia painting with part of the face in full color and part of the face changed by the filter.*
 
 
-I then proceeded to attempt to recreate the source image as accurately as I could with the added handicap of the CB filter on. I started by sectioning the painting into smaller shapes and using the color picker to attempt to accurately simulate the hue, value, and saturation that I was seeing in the same section of the source image. The added difficulty of the CB handicap made this first pass much slower than I was used to as there were many more equivalent color choices to choose from. 
+I then proceeded to attempt to recreate the source image as accurately as I could with the CB filter on the entire screen including the color wheel. I started by sectioning the painting into smaller shapes and using  attempting to accurately simulate the hue, value, and saturation that I was seeing in the same section of the source image. 
+
+[![4-comma][images-fig3]](https://example.com)
+*Figure 5. A screencapture of the 3 different colorwheels I worked from when creating the digital paintings on Krita. The first is the standard RGB colorwheel. The second is the same wheel adjusted for Deuteranopia. The last image is the standard wheel adjusted for Monochromia. All 3 colorwheels allow for adjustments in hue, saturation, and value.*
 
 Once the painting was sectioned off into discrete color blocks I used a smoothing brush to obscure the section edges and add a smooth finish to the painting. Finally, I added a final restructuring layer that re-introduced areas of detail that were obscured by the smoothing pass.
 
 I repeated this process for 2 different types of color blindness. First deuteranopia (red-green CB) , then monochromia (Full CB). I chose not to use the filter for Protanopia because of the similarity to Deuteranopia. I was not able to do a painting for Tritanopia (Blue- yellow CB) as I could not find a filter that both contained the condition as an option, allowed simulation rather than adjustment, as well as allowed real-time computer interaction. 
+[![4-comma][images-fig6]](https://example.com)
 
-[![4-comma][images-fig3]](https://example.com)
+*Figure 6. A series of images showing the process of creating the Deuteranopia filter painting and then comparing it to its full color counterpart. The first image is the initial block in stage, then the smoothing stage, and finally the restructuring phase. The second row features the images with a Deuteranopia filter following the same previous 3 stages.*
 
-*Figure 5. A screencapture of the 3 different colorwheels I worked from when creating the digital paintings on Krita. The first is the standard RGB colorwheel. The second is the same wheel adjusted for Deuteranopia. The last image is the standard wheel adjusted for Monochromia. All 3 colorwheels allow for adjustments in hue, saturation, and value.*
 
 ## Result and Future Work
 
-[![4-comma][images-fig6]](https://example.com)
+[![4-comma][images-fig7]](https://example.com)
 
-*Figure 6. A series of images showing the process of creating the Deuteranopia filter painting. The first row features the images in full color going from the initial block in stage, the smoothing stage, and finally the restructuring phase. The second row features the images with a Deuteranopia filter following the same previous 3 stages.*
+*Figure 6. A series of images showing the process of creating the Deuteranopia filter painting and then comparing it to its full color counterpart. The first image is the initial block in stage, then the smoothing stage, and finally the restructuring phase. The second row features the images with a Deuteranopia filter following the same previous 3 stages.*
 
 I found that the greatest challenge was the fact that there were a number of ways to achieve the same hue and saturation value as in the adjusted source image. Often adjusting the saturation or value of a color gave the same effect on one hue as another. This was especially prevalent in the Monochromia example. 
 
@@ -92,11 +97,12 @@ I also noticed that cooler colors (blue, purple, green) were often found in the 
 I noticed an over prevalence of purple in the Monochromia painting and a dearth of yellow. I assume that it is because of the ease of interpreting certain shades of blue and red as purple and because darker shades of yellow are often interpreted as oranges.
 
 I noticed that despite the fact that they are the only colors invisible on the Deuteranopia colorwheel the ending painting is overwhelmingly red and green. I have no good explanation for this phenomena.
+Overall, I've noticed that sections with increased contrast in color tend to be more accurate than sections with subtle changes in midtones.
 
-I would like to create another series featuring Daltonized versions of these filters to see how that changes my options as well as a version with Tritanopia included.
+I would like to create another series featuring Daltonized versions of these filters to see how that changes my options as well as a version with Tritanopia included. I think that seeing how Daltonized filters improve the usability of color pickers would be useful for designing better, more inclusive systems for the colorblind. I also think that including Tritanopia in this experiment could help in also making any differences in art program UI more inclusive to rarer forms of CB. 
 
 ## Conclusion
-In conclusion, I think that though CB can cause vast challenges in creating art, it also can create great opportunities for beauty and a unique aesthetic. 
+Colorblindness hinders color picking by merging different hues of colors into fewer choices and as such making saturation and value much more important in accurate painting creation. Increasing contrast in a composition would be a good way to account for this in order to limit the confusing midtones that cause problems for colorblind artists.
 
 <!-- Bibliography -->
 ## Bibliography 
