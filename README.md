@@ -88,7 +88,7 @@ I repeated this process for 2 different types of color blindness. First deuteran
 
 [![4-comma][images-fig7]](https://example.com)
 
-*Figure 6. A series of images showing the process of creating the Deuteranopia filter painting and then comparing it to its full color counterpart. The first image is the initial block in stage, then the smoothing stage, and finally the restructuring phase. The second row features the images with a Deuteranopia filter following the same previous 3 stages.*
+*Figure 6. A series of images showing the process of creating the Monochromia filter painting and then comparing it to its full color counterpart. The first image is the initial block in stage, then the smoothing stage, and finally the restructuring phase. The second row features the images with a Greyscale filter following the same previous 3 stages.*
 
 I found that the greatest challenge was the fact that there were a number of ways to achieve the same hue and saturation value as in the adjusted source image. Often adjusting the saturation or value of a color gave the same effect on one hue as another. This was especially prevalent in the Monochromia example. 
 
@@ -154,6 +154,7 @@ VIZA 626 Class Website: [https://sites.google.com/view/viza626/](https://sites.g
 [images-fig4]: images/fig4.png
 [images-fig5]: images/fig5.png
 [images-fig6]: images/fig6.png
+[images-fig7]: images/fig7.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
